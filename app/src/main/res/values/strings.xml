@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TriangleAreaCalculator</string>
+    <string name="triangle_area_calculator">Triangle Area Calculator</string>
+    <string name="enter_height">Enter height</string>
+    <string name="width">Width:</string>
+    <string name="height">Height:</string>
+    <string name="enter_width">Enter width</string>
+    <string name="calculate">Calculate</string>
+</resources>
